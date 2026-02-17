@@ -1,4 +1,13 @@
 ## Hi there 👋
+I'm Alvaro
+
+I like automating things — scripts, games, robots, AI systems — anything that can move or 'think' on its own. I'm into machine learning, computer vision, and drones. I also enjoy debugging, even though the AI boom is starting to take that part away from me.
+
+Outside programming, I like origami, playing the guitar, drawing, learning new stuff, and anything related to planes, satellites, and space. I read fantasy, sci‑fi, and stories that use competence-based tropes.
+
+I enjoy meteorology as a subject.
+
+I'm not terrible at organizing myself, but I’d like to get better at managing my free time.
 
 <!--
 **AlvaroSanchezM/AlvaroSanchezM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
