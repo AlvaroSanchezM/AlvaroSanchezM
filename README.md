@@ -12,7 +12,7 @@ I'm not terrible at organizing myself, but I’d like to get better at managing 
 
 #### Stats
 
-[![AlvaroSanchezM's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlvaroSanchezM&hide=prs&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats) ![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroSanchezM&hide_progress=true)
+[![AlvaroSanchezM's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlvaroSanchezM&hide=prs&show_icons=true&hide_title=true&include_all_commits=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats) ![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroSanchezM&hide_progress=true)
 
 #### Languages and Tools:
 
